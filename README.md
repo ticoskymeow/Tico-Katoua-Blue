@@ -3,6 +3,10 @@ Hóspede um voicebanck criado por um fan de vocaloid, no site do voicebank você
 
 =============================================================================================================
 
+#AVISO: SE VOCÊ FOR BRASILEIRO, RETIRE A TRADUÇÃO DO SITE, A TRADUÇÃO FARA QUE O PORTUGUÊS DO READ ME FIQUE ESTRANHO
+
+=============================================================================================================
+
 Informações do Voicebank
 
 - Nome: Tico-Katoua-Blue
